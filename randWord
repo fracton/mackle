@@ -10,3 +10,4 @@ let "number ^= $RANDOM"
 let "number *= $RANDOM"
 let "number %= range"
 head -n $number /Users/k/script/dictionary.txt | tail -n 1
+#

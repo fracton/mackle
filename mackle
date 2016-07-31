@@ -1,5 +1,5 @@
 networksetup -setairportpower en1 off
-
+#
 sudo scutil --set ComputerName "`randWord`"
 sudo scutil --set LocalHostName "`randWord`"
 sudo scutil --set HostName "`randWord`"
