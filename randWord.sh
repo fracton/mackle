@@ -9,4 +9,4 @@ let "number += 1"
 let "number ^= $RANDOM"
 let "number *= $RANDOM"
 let "number %= range"
-head -n $number /Users/k/script/dictionary.txt | tail -n 1
+head -n $number ./dic/dictionary.txt | tail -n 1
